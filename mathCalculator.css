@@ -1,0 +1,47 @@
+.mainPanel {
+    font: 20pt/10pt bold sans-serif ;
+    color: lightgray;
+    border: 8px solid dimgray;
+    background-color: darkslategrey;
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 800px;
+    padding: 10px;
+
+    white-space:nowrap
+}
+
+.header {
+    text-align: center
+}
+
+.simpleText {
+    font: 15pt/10pt sans-serif;
+    width: 100%;
+    margin: 0 auto;
+    height: 25px;
+}
+
+.textField {
+    font: 15pt/10pt sans-serif;
+    color: whitesmoke;
+    background-color: darkgrey;
+    width: 26%;
+    height: 50px;
+    border: 4px solid dimgray;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.button {
+    font: 15pt/10pt sans-serif;
+    color: lightgray;
+    background-color: darkslategrey;
+    border: 4px solid dimgray;
+    width: 31%;
+    height: 50px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
